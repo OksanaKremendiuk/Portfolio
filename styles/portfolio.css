@@ -110,4 +110,17 @@ p {
   .mobile {
     padding: 20px;
   }
+  img {
+    display: none;
+  }
+  h2,
+  p {
+    text-align: center;
+  }
+  .weather-link,
+  .yoga-link,
+  .yogurt-link {
+    display: flex;
+    justify-content: center !important;
+  }
 }
