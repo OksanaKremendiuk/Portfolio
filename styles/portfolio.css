@@ -23,6 +23,7 @@ h1 {
 }
 h2 {
   font-size: 48px;
+  font-family: var(--heding-font);
 }
 h3 {
   font-size: 24px;
