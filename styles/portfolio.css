@@ -41,12 +41,9 @@ p {
   justify-content: center;
   margin-top: 40px;
 }
-.weather-link {
-  display: flex;
-  justify-content: end !important;
-}
 .yoga-link,
-.yogurt-link {
+.yogurt-link,
+.weather-link {
   display: flex;
   justify-content: start !important;
 }
