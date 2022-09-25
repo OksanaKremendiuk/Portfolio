@@ -9,7 +9,11 @@
   padding: 60px;
   background-color: var(--secondary-color);
 }
+.content {
+  padding: 60px;
+}
 body {
+
   font-family: var(--default-font);
 }
 h1,
