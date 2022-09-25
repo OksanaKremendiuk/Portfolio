@@ -13,7 +13,6 @@
   padding: 60px;
 }
 body {
-
   font-family: var(--default-font);
 }
 h1,
@@ -92,8 +91,17 @@ p {
 .text-center {
   text-align: center !important;
 }
-.works h2 {
+.content h2 {
   font-size: 32px;
+}
+.social-links {
+  text-decoration: none;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 36px;
+}
+.fa-brands {
+  color: var(--primary-color);
 }
 @media (max-width: 592px) {
   h1 {
@@ -114,16 +122,17 @@ p {
   .mobile {
     padding: 20px;
   }
-  /* img {
-    display: none; */
-  /* } */
+  .mobile-none {
+    display: none;
+  }
   h2,
   p {
     text-align: center;
   }
   .weather-link,
   .yoga-link,
-  .yogurt-link {
+  .yogurt-link,
+  .primary-link {
     display: flex;
     justify-content: center !important;
   }
