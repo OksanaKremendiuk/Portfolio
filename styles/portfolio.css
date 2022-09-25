@@ -45,8 +45,7 @@ p {
   justify-content: center;
   margin-top: 40px;
 }
-.yoga-link,
-.yogurt-link,
+.boardgames-link,
 .weather-link {
   display: flex;
   justify-content: start !important;
@@ -130,8 +129,7 @@ p {
     text-align: center;
   }
   .weather-link,
-  .yoga-link,
-  .yogurt-link,
+  .boardgames-link,
   .primary-link {
     display: flex;
     justify-content: center !important;
