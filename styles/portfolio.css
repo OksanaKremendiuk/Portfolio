@@ -102,6 +102,9 @@ p {
 .fa-brands {
   color: var(--primary-color);
 }
+img {
+  border-radius: 6px;
+}
 @media (max-width: 592px) {
   h1 {
     font-size: 48px;
